@@ -1,6 +1,8 @@
 # Persona-SQ-demo
 
-This repo contains the video and working demonstrations of the Persona-SQ project.
+This is the official repo for the paper [Persona-SQ: A Personalized Suggested Question Generation Framework For Real-world Documents](https://arxiv.org/pdf/2412.12445).
+
+![data-generation-pipeline](https://github.com/user-attachments/assets/c2fda40b-7ba1-41bc-9fbe-4e771abc6226)
 
 The demo links will be periodically updated to avoid the 72hr gradio sharing time limit.
 
