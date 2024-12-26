@@ -1,6 +1,6 @@
 # Persona-SQ-demo
 
-This is the official repo for the paper [Persona-SQ: A Personalized Suggested Question Generation Framework For Real-world Documents](https://arxiv.org/pdf/2412.12445).
+This is the repo for demonstrating the paper [Persona-SQ: A Personalized Suggested Question Generation Framework For Real-world Documents](https://arxiv.org/pdf/2412.12445).
 
 ![data-generation-pipeline](https://github.com/user-attachments/assets/c2fda40b-7ba1-41bc-9fbe-4e771abc6226)
 
