@@ -6,7 +6,7 @@ This is the repo for demonstrating the paper [Persona-SQ: A Personalized Suggest
 
 The demo links will be periodically updated to avoid the 72hr gradio sharing time limit.
 
-__Video__:
+__Video__: [video](https://virginiatech-my.sharepoint.com/:v:/g/personal/zihaol_vt_edu/EUmFZlKPyf1Knz4CjFgM6-0BeRPhiDUPXDpxfRhAvVJwnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IIAper)
 
 __GPT4o demo__: https://833077ee34a0a9842e.gradio.live/
 
