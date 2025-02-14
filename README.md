@@ -10,5 +10,4 @@ __Video__: [video](https://virginiatech-my.sharepoint.com/:v:/g/personal/zihaol_
 
 __GPT4o demo__: [https://833077ee34a0a9842e.gradio.live/](https://09d245de1680f3ea2f.gradio.live/)
 
-__Fine-tuned model demo__: [[https://a4acda7d8f8d5ee33e.gradio.live/](https://f488a2b54402d9d6ff.gradio.live)
-](https://d65787c635716f36b0.gradio.live/)
+__Fine-tuned model demo__: https://d65787c635716f36b0.gradio.live/
