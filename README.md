@@ -8,6 +8,6 @@ The demo links will be periodically updated to avoid the 72hr gradio sharing tim
 
 __Video__: [video](https://virginiatech-my.sharepoint.com/:v:/g/personal/zihaol_vt_edu/EUmFZlKPyf1Knz4CjFgM6-0BeRPhiDUPXDpxfRhAvVJwnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=IIAper)
 
-__GPT4o demo__: https://4d1b736cf8a5a55913.gradio.live/
+__GPT4o demo__: https://590c1db8e6cb19465d.gradio.live/
 
-__Fine-tuned model demo__: https://606f1e4785a63b38fe.gradio.live/
+__Fine-tuned model demo__: https://2f773068afe3bd92b9.gradio.live/
